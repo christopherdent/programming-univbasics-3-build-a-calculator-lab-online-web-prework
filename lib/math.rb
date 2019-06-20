@@ -6,10 +6,11 @@ end
 def subtraction(num1, num2)
   puts (10 - 5)
   return (num1 - num2)
-
 end
 
 def division(num1, num2)
+  puts (50 / 2)
+  return (num1 / num2)
 
 end
 
